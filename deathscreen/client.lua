@@ -110,8 +110,8 @@ function showDeathScreen()
     PlaySoundFrontend(-1, "Bed", "WastedSounds", true)
 
     DoScreenFadeOut(500)
-    Wait(1500)
-    DoScreenFadeIn(1000)
+    Wait(500)
+    DoScreenFadeIn(500)
 
     updateScaleform()
 
