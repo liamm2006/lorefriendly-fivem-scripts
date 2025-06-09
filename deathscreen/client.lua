@@ -1,6 +1,6 @@
 -- CONFIG
 Config = {
-    Locale = "de",
+    Locale = "en",
     RespawnTime = 600,
 }
 
